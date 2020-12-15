@@ -78,3 +78,10 @@ To initialize your application with some data kindly fire up below endpoints fro
 
 Kindly use below url to delete all indexes:
 [Delete all indexes from Elastic search]({{host}}/bookingsApp/elastic/delete_all)
+
+
+
+Contributors:
+Rahul Pandey
+Anurag Bannur
+Sajag Porwal
